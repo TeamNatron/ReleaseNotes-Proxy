@@ -1,0 +1,164 @@
+2020/03/18 15:19:23 [error] 6#6: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 15:19:23 [warn] 6#6: *1 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 15:19:23 [error] 6#6: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 15:19:23 [warn] 6#6: *1 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 15:19:23 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 15:19:24 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:49:45 [error] 6#6: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:49:45 [warn] 6#6: *1 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:49:45 [error] 6#6: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:49:45 [warn] 6#6: *1 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:49:45 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "http://webapp/favicon.ico", host: "localhost"
+2020/03/18 16:51:46 [error] 6#6: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:51:46 [warn] 6#6: *1 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:51:46 [error] 6#6: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:51:46 [warn] 6#6: *1 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:51:49 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:51:50 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:51:50 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:51:51 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:51:51 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:51:52 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:51:52 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:51:53 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:51:56 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:51:56 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:51:56 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:52:32 [error] 6#6: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:52:32 [warn] 6#6: *1 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:52:32 [error] 6#6: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:52:32 [warn] 6#6: *1 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:52:34 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:52:36 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:52:37 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:52:38 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:52:39 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:52:40 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:29 [error] 6#6: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:53:29 [warn] 6#6: *1 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:53:29 [error] 6#6: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:53:29 [warn] 6#6: *1 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:53:30 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:30 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:30 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:30 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:31 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:31 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:31 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:32 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:32 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:32 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:33 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:33 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:33 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:33 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:34 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:34 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:34 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:35 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:35 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:35 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:36 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:36 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:36 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:36 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:37 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:37 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:37 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:38 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:38 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:38 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:39 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:39 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:39 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:39 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:40 [error] 6#6: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:53:40 [warn] 6#6: *1 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:53:40 [error] 6#6: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:53:40 [warn] 6#6: *1 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:53:40 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:40 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:41 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:41 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:41 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:42 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:42 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:42 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:43 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:43 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:53:44 [error] 6#6: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:54:38 [error] 6#6: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:54:38 [warn] 6#6: *1 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:54:38 [error] 6#6: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:54:38 [warn] 6#6: *1 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:59:21 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:59:21 [warn] 8#8: *1 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:59:21 [error] 8#8: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:59:21 [warn] 8#8: *1 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:59:21 [error] 8#8: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:59:25 [error] 8#8: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:59:25 [error] 8#8: *1 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET /favicon.ico HTTP/1.1", upstream: "http://localhost/favicon.ico", host: "localhost"
+2020/03/18 16:59:26 [error] 8#8: *4 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:59:26 [error] 8#8: *4 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:59:27 [error] 8#8: *4 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:59:27 [error] 8#8: *4 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET /favicon.ico HTTP/1.1", upstream: "http://localhost/favicon.ico", host: "localhost"
+2020/03/18 16:59:31 [error] 8#8: *5 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:59:31 [error] 8#8: *5 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET /favicon.ico HTTP/1.1", upstream: "http://localhost/favicon.ico", host: "localhost"
+2020/03/18 16:59:32 [error] 8#8: *6 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:59:32 [warn] 8#8: *6 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:59:32 [error] 8#8: *6 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:59:32 [warn] 8#8: *6 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:59:41 [error] 8#8: *6 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:59:41 [error] 8#8: *6 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET /favicon.ico HTTP/1.1", upstream: "http://localhost/favicon.ico", host: "localhost"
+2020/03/18 16:59:42 [error] 8#8: *9 no live upstreams while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/03/18 16:59:43 [error] 8#8: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:59:43 [warn] 8#8: *9 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:59:43 [error] 8#8: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 16:59:43 [warn] 8#8: *9 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2020/03/18 17:03:50 [error] 8#8: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET /api HTTP/1.1", upstream: "http://127.0.0.1:5000/", host: "localhost"
+2020/03/18 17:03:50 [warn] 8#8: *12 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET /api HTTP/1.1", upstream: "http://127.0.0.1:5000/", host: "localhost"
+2020/03/18 17:03:50 [error] 8#8: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET /api HTTP/1.1", upstream: "http://127.0.0.1:5000/", host: "localhost"
+2020/03/18 17:03:50 [warn] 8#8: *12 upstream server temporarily disabled while connecting to upstream, client: 172.20.0.1, server: reverse-proxy, request: "GET /api HTTP/1.1", upstream: "http://127.0.0.1:5000/", host: "localhost"
+2020/03/18 17:04:18 [emerg] 1#1: invalid URL prefix in /etc/nginx/nginx.conf:33
+2020/03/18 17:04:18 [emerg] 1#1: invalid URL prefix in /etc/nginx/nginx.conf:33
+2020/03/18 17:04:19 [emerg] 1#1: invalid URL prefix in /etc/nginx/nginx.conf:33
+2020/03/18 17:04:20 [emerg] 1#1: invalid URL prefix in /etc/nginx/nginx.conf:33
+2020/03/18 17:04:21 [emerg] 1#1: invalid URL prefix in /etc/nginx/nginx.conf:33
+2020/03/18 17:04:23 [emerg] 1#1: invalid URL prefix in /etc/nginx/nginx.conf:33
+2020/03/18 17:04:26 [emerg] 1#1: invalid URL prefix in /etc/nginx/nginx.conf:33
+2020/03/18 17:04:33 [emerg] 1#1: invalid URL prefix in /etc/nginx/nginx.conf:33
+2020/03/18 17:06:43 [emerg] 1#1: host not found in upstream "webapp" in /etc/nginx/nginx.conf:33
+2020/03/18 17:06:54 [emerg] 1#1: host not found in upstream "webapp" in /etc/nginx/nginx.conf:33
+2020/03/18 17:07:04 [emerg] 1#1: host not found in upstream "webapp" in /etc/nginx/nginx.conf:33
+2020/03/18 17:07:15 [emerg] 1#1: host not found in upstream "webapp" in /etc/nginx/nginx.conf:33
+2020/03/18 17:07:26 [emerg] 1#1: host not found in upstream "webapp" in /etc/nginx/nginx.conf:33
+2020/03/18 17:07:36 [emerg] 1#1: host not found in upstream "webapp" in /etc/nginx/nginx.conf:33
+2020/03/18 17:07:47 [emerg] 1#1: host not found in upstream "webapp" in /etc/nginx/nginx.conf:33
+2020/03/18 17:07:57 [emerg] 1#1: host not found in upstream "webapp" in /etc/nginx/nginx.conf:33
+2020/03/18 17:08:08 [emerg] 1#1: host not found in upstream "webapp" in /etc/nginx/nginx.conf:33
+2020/03/18 17:08:16 [emerg] 1#1: host not found in upstream "webapp" in /etc/nginx/nginx.conf:33
+2020/03/18 17:08:24 [emerg] 1#1: host not found in upstream "webapp" in /etc/nginx/nginx.conf:33
+2020/03/18 17:08:32 [emerg] 1#1: host not found in upstream "webapp" in /etc/nginx/nginx.conf:33
+2020/03/18 17:08:41 [emerg] 1#1: host not found in upstream "webapp" in /etc/nginx/nginx.conf:33
+2020/03/18 17:08:52 [emerg] 1#1: host not found in upstream "webapp" in /etc/nginx/nginx.conf:33
+2020/03/18 17:09:03 [emerg] 1#1: host not found in upstream "webapp" in /etc/nginx/nginx.conf:33
+2020/03/18 17:09:13 [emerg] 1#1: host not found in upstream "webapp" in /etc/nginx/nginx.conf:33
+2020/03/18 17:09:24 [emerg] 1#1: host not found in upstream "webapp" in /etc/nginx/nginx.conf:33
+2020/03/18 17:09:34 [emerg] 1#1: host not found in upstream "webapp" in /etc/nginx/nginx.conf:33
+2020/03/18 17:18:37 [emerg] 1#1: host not found in upstream "dockerapi" in /etc/nginx/nginx.conf:37
+2020/03/18 17:18:38 [emerg] 1#1: host not found in upstream "dockerapi" in /etc/nginx/nginx.conf:37
+2020/03/18 17:18:38 [emerg] 1#1: host not found in upstream "dockerapi" in /etc/nginx/nginx.conf:37
+2020/03/18 17:18:39 [emerg] 1#1: host not found in upstream "dockerapi" in /etc/nginx/nginx.conf:37
+2020/03/18 17:18:40 [emerg] 1#1: host not found in upstream "dockerapi" in /etc/nginx/nginx.conf:37
+2020/03/18 17:18:43 [emerg] 1#1: host not found in upstream "dockerapi" in /etc/nginx/nginx.conf:37
+2020/03/18 17:18:46 [emerg] 1#1: host not found in upstream "dockerapi" in /etc/nginx/nginx.conf:37
+2020/03/18 17:18:53 [emerg] 1#1: host not found in upstream "dockerapi" in /etc/nginx/nginx.conf:37
+2020/03/18 17:19:06 [emerg] 1#1: host not found in upstream "dockerapi" in /etc/nginx/nginx.conf:37
+2020/03/18 17:19:33 [emerg] 1#1: host not found in upstream "dockerapi" in /etc/nginx/nginx.conf:37
+2020/03/18 17:20:24 [emerg] 1#1: host not found in upstream "dockerapi" in /etc/nginx/nginx.conf:37
+2020/03/18 17:21:12 [emerg] 1#1: host not found in upstream "dockerapi" in /etc/nginx/nginx.conf:39
+2020/03/18 17:21:13 [emerg] 1#1: host not found in upstream "dockerapi" in /etc/nginx/nginx.conf:39
+2020/03/18 17:21:13 [emerg] 1#1: host not found in upstream "dockerapi" in /etc/nginx/nginx.conf:39
+2020/03/18 17:21:14 [emerg] 1#1: host not found in upstream "dockerapi" in /etc/nginx/nginx.conf:39
+2020/03/18 17:21:16 [emerg] 1#1: host not found in upstream "dockerapi" in /etc/nginx/nginx.conf:39
+2020/03/18 17:21:18 [emerg] 1#1: host not found in upstream "dockerapi" in /etc/nginx/nginx.conf:39
